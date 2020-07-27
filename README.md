@@ -1,4 +1,4 @@
-# crud_php7
+# crud-php7
 
 This is a simple code for CRUD functions.<br>
 This code made with PHP 7.<br>
